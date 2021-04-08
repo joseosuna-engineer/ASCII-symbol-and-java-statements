@@ -45,4 +45,5 @@
 | -> |	Arrow|
 | &&| 	And|
 | \|\|  |	Or |
+| .* | dot star|
 

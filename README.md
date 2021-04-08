@@ -40,8 +40,8 @@
 | ~ |	Tilde|
 | ++ |Plus plus|
 |--| Minus minus|
-| /* |	Slashterix|
-| */ |	Asterslash|
+| /* |	Slash star|
+| */ |	Star slash|
 | -> |	Arrow|
 | &&| 	And|
 | \|\|  |	Or |

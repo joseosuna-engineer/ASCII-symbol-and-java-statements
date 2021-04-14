@@ -47,3 +47,4 @@
 | \|\|  |	Or |
 | .* | dot star|
 
+## [How to read mathematical expressions](math-ex.md)

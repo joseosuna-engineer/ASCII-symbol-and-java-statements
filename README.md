@@ -38,15 +38,8 @@
 | \` |	Backquote|
 | \| |	Vertical bar|
 | ~ |	Tilde|
-| ++ |Plus plus|
-|--| Minus minus|
-| /* |	Slash star|
-| */ |	Star slash|
-| -> |	Arrow|
-| &&| 	And|
-| \|\|  |	Or |
-| .* | dot star|
+
 
 ## [How to read mathematical expressions](math-ex.md)
 
-## [How to read some expressions in Java](java-ex.md)
+## [How to read some expressions and statements in Java](java-ex.md)

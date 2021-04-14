@@ -2,6 +2,7 @@
 
 | Java expression | Statement |
 |---|---|
+| == | equal to |
 | != | not equal |
 | >= | greater than or equal to |
 | <= | less than or equal to |

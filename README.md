@@ -49,4 +49,4 @@
 
 ## [How to read mathematical expressions](math-ex.md)
 
-## [How to read some expressions in Java](java-ex-md)
+## [How to read some expressions in Java](java-ex.md)

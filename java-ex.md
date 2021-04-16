@@ -14,3 +14,4 @@
 | &&| 	And|
 | \|\|  |	Or |
 | .* | dot star|
+| \n  | slash n |

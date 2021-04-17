@@ -15,3 +15,4 @@
 | \|\|  |	Or |
 | .* | dot star|
 | \n  | slash n |
+| : :  | Colon Colon |

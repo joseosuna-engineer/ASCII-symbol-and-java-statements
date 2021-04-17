@@ -10,7 +10,7 @@
 |--| Minus minus|
 | /* |	Slash star|
 | */ |	Star slash|
-| -> |	Arrow|
+| -> |	Lambda token, Arrow|
 | &&| 	And|
 | \|\|  |	Or |
 | .* | dot star|

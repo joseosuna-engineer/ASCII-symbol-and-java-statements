@@ -16,3 +16,4 @@
 | .* | dot star|
 | \n  | slash n |
 | : :  | Colon Colon |
+| java -jar  | java minus jar |

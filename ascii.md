@@ -24,7 +24,7 @@
 |* |	Asterisk|
 |+ |	Plus|
 |, |	Comma|
-|- |	Dash|
+|- |	Dash, minus |
 | . |	Dot, Point|
 | / |	Slash|
 |\ |	Backslash|

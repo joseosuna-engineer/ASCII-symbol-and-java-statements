@@ -17,3 +17,4 @@
 | \n  | slash n |
 | : :  | Colon Colon |
 | java -jar  | java minus jar |
+| sql | sikuel |

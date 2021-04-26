@@ -18,7 +18,7 @@
 | 5/6 | five sixths |
 | a/b|a over b |
 | (2x - 6y) - 10  | the difference of two x and six y, minus ten |
-| a - b<sup>2</sup> | a times the square of b |
+| ab<sup>2</sup> | a times the square of b |
 | 2.1E9 | two point one times ten to the nineth power|
 
 
